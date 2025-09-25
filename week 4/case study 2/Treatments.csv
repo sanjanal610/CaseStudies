@@ -1,0 +1,101 @@
+treatment_id,admission_id,treatment_date,procedure,medication,dosage
+7001,2022,17-04-2025,CT Scan,Paracetamol,10mg 1x daily
+7002,2017,13-07-2025,Nebulization,Metoprolol,50mg 1x daily
+7003,2056,08-07-2025,Blood Pressure Monitoring,Atorvastatin,500mg 2x daily
+7004,2002,17-06-2025,MRI,Metoprolol,50mg 1x daily
+7005,2050,12-08-2025,X-Ray,Paracetamol,650mg every 6 hrs
+7006,2028,24-09-2025,Dialysis,Atorvastatin,10mg 1x daily
+7007,2012,07-07-2025,Blood Pressure Monitoring,Ibuprofen,650mg every 6 hrs
+7008,2029,09-08-2025,Dialysis,Atorvastatin,10mg 1x daily
+7009,2059,23-06-2025,Dialysis,Amoxicillin,10mg 1x daily
+7010,2019,08-05-2025,Nebulization,Paracetamol,50mg 1x daily
+7011,2032,14-04-2025,MRI,Ibuprofen,50mg 1x daily
+7012,2058,02-06-2025,Oxygen Therapy,Atorvastatin,10mg 1x daily
+7013,2043,08-06-2025,Dialysis,Atorvastatin,10mg 1x daily
+7014,2003,01-07-2025,Blood Pressure Monitoring,Atorvastatin,10mg 1x daily
+7015,2027,12-07-2025,X-Ray,Ibuprofen,10mg 1x daily
+7016,2015,17-04-2025,Dialysis,Atorvastatin,650mg every 6 hrs
+7017,2005,30-06-2025,Oxygen Therapy,Metoprolol,500mg 2x daily
+7018,2030,31-07-2025,MRI,Prednisone,50mg 1x daily
+7019,2031,12-08-2025,CT Scan,Amoxicillin,10mg 1x daily
+7020,2019,16-05-2025,Blood Pressure Monitoring,Amoxicillin,10mg 1x daily
+7021,2023,05-07-2025,Nebulization,Atorvastatin,10mg 1x daily
+7022,2041,20-08-2025,Blood Pressure Monitoring,Amoxicillin,650mg every 6 hrs
+7023,2011,19-06-2025,Nebulization,Prednisone,500mg 2x daily
+7024,2023,04-07-2025,Blood Pressure Monitoring,Prednisone,500mg 2x daily
+7025,2023,03-07-2025,X-Ray,Paracetamol,10mg 1x daily
+7026,2003,11-07-2025,X-Ray,Paracetamol,650mg every 6 hrs
+7027,2036,07-09-2025,Blood Pressure Monitoring,Metoprolol,10mg 1x daily
+7028,2022,21-04-2025,MRI,Atorvastatin,500mg 2x daily
+7029,2025,07-09-2025,MRI,Atorvastatin,500mg 2x daily
+7030,2007,15-07-2025,Oxygen Therapy,Amoxicillin,650mg every 6 hrs
+7031,2033,03-05-2025,CT Scan,Paracetamol,10mg 1x daily
+7032,2053,16-05-2025,Nebulization,Metoprolol,10mg 1x daily
+7033,2046,10-04-2025,Nebulization,Amoxicillin,650mg every 6 hrs
+7034,2004,22-06-2025,Dialysis,Ibuprofen,650mg every 6 hrs
+7035,2040,22-09-2025,Blood Pressure Monitoring,Prednisone,10mg 1x daily
+7036,2025,20-07-2025,CT Scan,Amoxicillin,10mg 1x daily
+7037,2053,19-05-2025,CT Scan,Prednisone,50mg 1x daily
+7038,2046,10-04-2025,Blood Pressure Monitoring,Atorvastatin,50mg 1x daily
+7039,2025,05-08-2025,CT Scan,Ibuprofen,50mg 1x daily
+7040,2004,16-06-2025,Blood Pressure Monitoring,Metoprolol,650mg every 6 hrs
+7041,2028,24-09-2025,Blood Pressure Monitoring,Ibuprofen,50mg 1x daily
+7042,2009,15-08-2025,X-Ray,Paracetamol,650mg every 6 hrs
+7043,2032,12-04-2025,Dialysis,Amoxicillin,650mg every 6 hrs
+7044,2040,23-09-2025,Dialysis,Amoxicillin,10mg 1x daily
+7045,2042,27-07-2025,MRI,Paracetamol,50mg 1x daily
+7046,2031,11-08-2025,MRI,Prednisone,10mg 1x daily
+7047,2040,23-09-2025,Dialysis,Ibuprofen,50mg 1x daily
+7048,2019,10-05-2025,X-Ray,Metoprolol,650mg every 6 hrs
+7049,2031,12-08-2025,Dialysis,Paracetamol,50mg 1x daily
+7050,2031,12-08-2025,Blood Pressure Monitoring,Ibuprofen,50mg 1x daily
+7051,2056,12-09-2025,Nebulization,Paracetamol,500mg 2x daily
+7052,2019,17-05-2025,Nebulization,Ibuprofen,10mg 1x daily
+7053,2048,15-07-2025,Nebulization,Prednisone,500mg 2x daily
+7054,2030,23-09-2025,Dialysis,Metoprolol,650mg every 6 hrs
+7055,2003,05-08-2025,Nebulization,Prednisone,10mg 1x daily
+7056,2014,09-05-2025,Oxygen Therapy,Metoprolol,10mg 1x daily
+7057,2042,21-09-2025,Nebulization,Ibuprofen,10mg 1x daily
+7058,2049,23-07-2025,Dialysis,Atorvastatin,500mg 2x daily
+7059,2012,07-07-2025,X-Ray,Metoprolol,650mg every 6 hrs
+7060,2060,16-09-2025,CT Scan,Prednisone,500mg 2x daily
+7061,2002,15-06-2025,Blood Pressure Monitoring,Prednisone,50mg 1x daily
+7062,2042,11-09-2025,Blood Pressure Monitoring,Amoxicillin,500mg 2x daily
+7063,2029,10-08-2025,CT Scan,Amoxicillin,500mg 2x daily
+7064,2060,17-09-2025,CT Scan,Paracetamol,650mg every 6 hrs
+7065,2040,22-09-2025,Nebulization,Prednisone,500mg 2x daily
+7066,2011,16-06-2025,X-Ray,Metoprolol,10mg 1x daily
+7067,2060,09-09-2025,Nebulization,Amoxicillin,500mg 2x daily
+7068,2020,07-04-2025,Dialysis,Ibuprofen,50mg 1x daily
+7069,2025,10-09-2025,X-Ray,Ibuprofen,10mg 1x daily
+7070,2006,04-05-2025,Nebulization,Prednisone,650mg every 6 hrs
+7071,2056,16-08-2025,Blood Pressure Monitoring,Ibuprofen,500mg 2x daily
+7072,2030,28-05-2025,Dialysis,Atorvastatin,650mg every 6 hrs
+7073,2018,17-09-2025,CT Scan,Paracetamol,650mg every 6 hrs
+7074,2026,29-08-2025,MRI,Amoxicillin,50mg 1x daily
+7075,2024,21-05-2025,X-Ray,Paracetamol,650mg every 6 hrs
+7076,2026,31-08-2025,Dialysis,Amoxicillin,50mg 1x daily
+7077,2020,07-04-2025,MRI,Prednisone,500mg 2x daily
+7078,2051,02-06-2025,CT Scan,Ibuprofen,650mg every 6 hrs
+7079,2048,17-07-2025,CT Scan,Atorvastatin,650mg every 6 hrs
+7080,2058,01-06-2025,MRI,Metoprolol,10mg 1x daily
+7081,2034,28-05-2025,CT Scan,Paracetamol,500mg 2x daily
+7082,2017,06-07-2025,MRI,Prednisone,50mg 1x daily
+7083,2028,21-09-2025,CT Scan,Atorvastatin,650mg every 6 hrs
+7084,2035,07-04-2025,Nebulization,Atorvastatin,500mg 2x daily
+7085,2001,10-07-2025,Nebulization,Metoprolol,500mg 2x daily
+7086,2001,07-07-2025,Blood Pressure Monitoring,Prednisone,50mg 1x daily
+7087,2057,05-09-2025,CT Scan,Metoprolol,650mg every 6 hrs
+7088,2060,19-09-2025,Dialysis,Ibuprofen,650mg every 6 hrs
+7089,2047,12-07-2025,Nebulization,Paracetamol,650mg every 6 hrs
+7090,2019,09-05-2025,Dialysis,Metoprolol,500mg 2x daily
+7091,2018,08-09-2025,X-Ray,Metoprolol,500mg 2x daily
+7092,2042,01-08-2025,X-Ray,Atorvastatin,500mg 2x daily
+7093,2057,17-09-2025,Nebulization,Metoprolol,650mg every 6 hrs
+7094,2048,13-07-2025,Blood Pressure Monitoring,Paracetamol,500mg 2x daily
+7095,2037,23-07-2025,Oxygen Therapy,Ibuprofen,10mg 1x daily
+7096,2005,28-06-2025,Blood Pressure Monitoring,Metoprolol,500mg 2x daily
+7097,2021,28-08-2025,MRI,Prednisone,50mg 1x daily
+7098,2016,04-04-2025,Dialysis,Paracetamol,10mg 1x daily
+7099,2027,15-08-2025,Oxygen Therapy,Amoxicillin,50mg 1x daily
+7100,2051,01-09-2025,Dialysis,Atorvastatin,650mg every 6 hrs

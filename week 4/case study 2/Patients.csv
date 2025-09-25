@@ -1,0 +1,51 @@
+patient_id,first_name,last_name,dob,gender,contact_no,address,chronic_conditions
+101,Sara,Petty,14-04-1938,Male,1920481766,"3399 Victoria Center, Johnsonton, AL 15414",Kidney Disease
+102,Samuel,Mckee,10-06-1981,Male,5577460816,"3599 Rebecca Greens Suite 457, East Savannahmouth, RI 20908","Kidney Disease, Kidney Disease"
+103,Darrell,Long,17-10-1943,Male,9595569491,"8831 Eric Wells, East Francesfort, RI 84478","COPD, Asthma"
+104,Christina,Green,16-07-2007,Male,2643423804,"8421 Samantha Pike, Craigbury, KY 28551",COPD
+105,Oscar,Barnes,03-02-1936,Other,8356446452,"91358 Schwartz Manor Apt. 736, East Stephaniehaven, MT 54813","Heart Disease, None"
+106,Christopher,Collins,01-02-1969,Other,2861156103,"37390 Melissa Crest Apt. 081, East Michaelborough, NH 26811",None
+107,Michael,Moore,11-03-1942,Other,4350339867,"98681 Melissa Village Apt. 504, Port Debraport, UT 70645",None
+108,Teresa,Nelson,09-09-1942,Other,2379358830,"50205 Schmitt Station, Michellechester, AL 60851",None
+109,Douglas,Jones,11-01-1991,Other,7132851441,"0087 Parker Rue Suite 373, Mckeetown, OR 07183",None
+110,Ashley,Nixon,20-11-1969,Female,8881706197,"85014 Evelyn Lights, North Morganton, NV 43154",Hypertension
+111,Melissa,Barnett,06-09-1976,Other,3099613299,"2032 Matthew Mill, Billyfurt, MN 58714",None
+112,Christopher,Perry,18-10-1980,Male,9929570717,"2952 Anthony Track, Jamesfort, WV 14852","Diabetes, Heart Disease"
+113,Vanessa,Fisher,10-11-1947,Male,1853134928,"349 Larry Port, East Johaven, VA 93447","Hypertension, Kidney Disease"
+114,Mary,Porter,31-07-1970,Other,6157757167,"97408 Schultz Well Apt. 027, New Jasminebury, HI 69477",Hypertension
+115,Kathleen,Nguyen,06-10-1992,Male,4987144400,"517 Goodwin Trail Suite 308, Mannhaven, MT 23128",Diabetes
+116,Samuel,Calhoun,02-10-1935,Female,5757887231,"5270 Lori Ville, West Jonathanborough, AR 58758","COPD, Kidney Disease"
+117,Anthony,Davis,03-12-1980,Female,3783704410,"42514 John Cape, Port Anthonymouth, NC 19509",Hypertension
+118,Justin,Smith,23-02-1941,Male,5794402054,"USNS Cohen, FPO AE 49005","Heart Disease, Asthma"
+119,Donald,Acevedo,01-02-1964,Female,1147923344,"588 Copeland Mission Apt. 627, Jackland, TN 09820",Diabetes
+120,Shelby,Shah,01-01-1972,Female,3713025906,"5818 Newman Brooks, Port Jonathan, ND 04818",Kidney Disease
+121,Katherine,Price,30-09-1989,Male,3234626239,"65730 Guerrero Place, Port Andrew, DE 83212",COPD
+122,Michael,Quinn,22-12-1934,Female,8261066161,"449 Walter Port Apt. 866, New Tina, CA 81732","COPD, COPD"
+123,Amy,Rivera,10-03-1983,Female,4927699164,"90146 Vazquez Center, Kristenborough, SD 81423",COPD
+124,Daniel,Hayden,09-02-1938,Female,1260279381,"835 Leslie Port, Dakotabury, FL 96476",Heart Disease
+125,Meredith,Brown,28-06-2006,Other,6077545994,"92212 Johnson Trafficway Apt. 520, Wilsontown, OK 31707",Heart Disease
+126,Jonathan,Wiggins,31-03-1935,Female,1389591838,"881 Chan Stream, South Melanie, MI 36968","Kidney Disease, Kidney Disease"
+127,Katherine,Burke,24-05-1945,Female,2269331274,"75833 Jared Ports Apt. 954, Rollinsmouth, UT 75578","Diabetes, Kidney Disease"
+128,Debra,Ramirez,15-08-1977,Other,4721529581,"PSC 9115, Box 8464, APO AE 56560",Diabetes
+129,Katie,King,15-03-1967,Female,4652217972,"2066 Michael Creek Apt. 194, Timothymouth, WV 32091","COPD, COPD"
+130,Brittney,Fox,15-01-1946,Other,6775661916,"3531 Jason Ramp Suite 536, East Jamesmouth, MO 16626",COPD
+131,Ronald,Stewart,07-05-1998,Male,2465385346,"30139 Flores Place Suite 899, Lake Davidchester, WA 53045","Diabetes, None"
+132,Kendra,Jones,17-06-1948,Male,4549770516,"7751 Carroll Throughway Suite 695, South Markbury, KY 11569","Kidney Disease, None"
+133,Charles,Mayo,23-04-1952,Female,3494964606,"4114 Gilmore Forest Apt. 927, Cynthialand, VA 55881",Kidney Disease
+134,Christine,Mcdonald,19-08-1964,Other,5316632402,"577 Brown Forks, Craigland, OR 46782",COPD
+135,Yolanda,Johnson,02-02-1975,Female,1681315621,"05998 Gloria Mountain Apt. 004, West Feliciafort, AL 22583",Hypertension
+136,Megan,Chavez,25-07-1935,Male,3200214779,"Unit 9742 Box 7427, DPO AE 21696",None
+137,Brittany,Huber,11-11-1966,Male,6321410640,"USNV Lopez, FPO AE 75268",None
+138,Hannah,Raymond,30-08-1998,Other,1898326587,"1033 Laura Pass Apt. 498, South Sarah, KS 01851",Kidney Disease
+139,Latoya,Powers,12-11-2001,Male,3883587037,"90362 Alejandra Neck Suite 149, Samuelhaven, AR 15585",None
+140,Alan,Carter,16-04-1960,Female,3441425726,"257 Shaffer Divide, Michaelfurt, WV 28912","COPD, Diabetes"
+141,Michele,Cervantes,24-09-1981,Female,108313762,"5945 Nelson Cove, Millerland, IN 79182","Diabetes, Hypertension"
+142,Jessica,Jones,31-10-1998,Female,142134941,"PSC 6405, Box 4136, APO AE 43876",Diabetes
+143,Angela,Miller,17-04-1967,Female,3351271585,"PSC 8775, Box 1783, APO AE 26209",Heart Disease
+144,Andrew,Wheeler,19-06-1954,Female,6513539334,"053 Christopher Gardens Suite 454, South William, NY 16115","Asthma, Asthma"
+145,James,Gonzalez,05-01-1995,Male,1673813663,"145 Martinez Forest Suite 768, South Josephmouth, WV 74103",Heart Disease
+146,Luis,Lopez,17-07-1952,Other,787990411,"741 Derek Forks, Michellechester, SD 68384","Hypertension, COPD"
+147,Lori,Phillips,05-07-1938,Other,4217447905,"4189 Perry Station Apt. 128, Solismouth, CT 41822","Kidney Disease, None"
+148,Charles,Sweeney,17-04-1940,Male,9158288020,"1002 Julia Lane Apt. 386, Melissaburgh, DE 69660",Diabetes
+149,Stacy,Vaughn,03-02-1960,Female,7597943225,"3891 Laurie Mount, North Sarah, SC 69612",Asthma
+150,Mark,Jones,25-09-1947,Male,9536671199,"861 James Flats Apt. 256, Port Seanfort, UT 05892","COPD, Diabetes"
